@@ -10,5 +10,4 @@ function App() {
   </div>;
 }
 
-export defat App;
-ul
+export default App;
